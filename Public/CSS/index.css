@@ -1,0 +1,11 @@
+header nav ul {
+    display: flex;
+    list-style: none;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: rgb(226, 25, 25);
+    cursor: pointer;
+
+}
